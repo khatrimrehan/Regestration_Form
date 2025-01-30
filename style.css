@@ -1,0 +1,18 @@
+h1 {
+    color:firebrick;
+     padding: 2.5px;
+    text-align : center
+    
+}
+
+*{
+    color: firebrick;
+    background-color:bisque;
+    background: height: 10%;
+    text-align : justify 
+        
+}
+
+body{
+      font-size: 175%;
+}
