@@ -35,8 +35,8 @@ h1{
 body{
     align-content: center;
     padding: 30px;
-    color:white;
     background-size:auto;
+    color: white;
         background: url(bg3.jpg);
    background-size: cover;
     background-position: center;
@@ -70,7 +70,7 @@ body{
  button {
             width: 100%;
             padding: 10px;
-            background-color:white;
+            background-color:lightgreen;
             color: darkslategray;
             border: none;
             border-radius: 5px;
@@ -79,7 +79,7 @@ body{
         }
 
         button:hover {
-            background-color:grey;
+            background-color:forestgreen;
 
 
 
