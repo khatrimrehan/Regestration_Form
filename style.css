@@ -69,7 +69,7 @@ body{
  button {
             width: 100%;
             padding: 10px;
-            background-color:lightgreen;
+            background-color:white;
             color: darkslategray;
             border: none;
             border-radius: 5px;
@@ -78,7 +78,7 @@ body{
         }
 
         button:hover {
-            background-color:forestgreen;
+            background-color:grey;
 
 
 
