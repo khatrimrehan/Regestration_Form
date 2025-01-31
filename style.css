@@ -3,6 +3,7 @@
     box-sizing:border-box;
     margin: 12px 2px;
     font-size: 33px;
+    font-family: sans-serif;
     
 }
 h1{
@@ -14,8 +15,13 @@ h1{
 body{
     align-content: center;
     padding: 30px;
-    background-size: cover;
-            background-position: center;
+    background-size:auto;
+        background: url(bg.jpg);
+   background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 100%;
+    background-repeat: no-repeat; 
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
@@ -29,9 +35,10 @@ body{
 
    .container {
             background-color:aliceblue;/* Semi-transparent background */
+       opacity: 90%;
             padding: 30px;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0.1, 0, 0, 0.1);
+            border: .5px solid lightblue;
             width: 800px;
 }
 
