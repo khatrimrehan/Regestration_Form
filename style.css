@@ -6,6 +6,25 @@
     font-family: sans-serif;
     
 }
+
+:root{
+    
+    height: 75vh;
+    
+}
+body{
+
+max-height: 100%;
+}
+container
+{
+width: 100px;
+margin: 0 auto;
+}
+
+
+
+
 h1{
     font-size: 50px;
     font-family:sans-serif;
@@ -40,6 +59,7 @@ body{
             border-radius: 10px;
             border: .5px solid lightblue;
             width: 800px;
+       height: "100%";
 }
 
 
