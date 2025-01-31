@@ -20,6 +20,7 @@ container
 {
 width: 100px;
 margin: 0 auto;
+    
 }
 
 
@@ -53,11 +54,12 @@ body{
 
 
    .container {
-            background-color:#f0fcf2;/* Semi-transparent background */
-       opacity: 90%;
-            padding: 30px;
-            border-radius: 10px;
-            border: .5px solid lightblue;
+             background: transparent;
+       border: 2px solid rgba(255,  255, 255, .2);
+       padding: 30px;
+        box-shadow:0 0 10px rgba(0, 0, 0, .2);
+       backdrop-filter: blur(29px);
+       border-radius: 10px;
             width: 800px;
        height: "100%";
 }
